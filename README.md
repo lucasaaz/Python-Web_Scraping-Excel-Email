@@ -1,5 +1,5 @@
 # Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/> 
-## Web Scraping, Excel e Email
+## Automação, Excel e Email
 
 ### Resumo:
 O código fornecido é um programa em Python que realiza diversas operações em um arquivo Excel (teste1.xlsx) contendo informações sobre alunos. O código manipula os dados, realiza formatações e salva o 
